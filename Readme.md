@@ -7,3 +7,6 @@ Test Producer:
 
 Test Consumer:
 ```bin/kafka-console-consumer.sh --topic testKafka --from-beginning --bootstrap-server localhost:9092```
+
+
+https://kafka.apache.org/quickstart 
